@@ -6,7 +6,7 @@ Study guide and collection of notes for the front-end dev bootcamp students.
 
 ## Installation
 
-N/A
+View the guide at : https://sophiaellis-dot.github.io/studyguide/
 
 ## Usage
 
